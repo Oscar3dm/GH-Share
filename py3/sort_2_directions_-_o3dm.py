@@ -65,6 +65,8 @@ for point_path in points_to_sort.Paths:
     # --- Group by tolerance_1 ---
     grouped_points_1 = group_points(sorted_points_1, tolerance_1)
 
+    print("test")
+
     # --- Sort each group along direction_2 ---
     for list_i, point_index_list in enumerate(grouped_points_1):
         # Sort that group
