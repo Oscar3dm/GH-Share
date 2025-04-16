@@ -1,0 +1,16 @@
+Curved Slat Divider Wall,1
+False,False
+Oscar3dm
+A:
+Oscar3dm
+N:
+group,Group,1
+move_vec,Move Vec,1
+group,Group,1
+snippet_group,Snippet Group,1
+py_-_toggle_wires,Py - Toggle Wires,1
+py_-_set_initial_wires,Py - Set Initial Wires,1
+create_top_wall_rail,Create Top Wall Rail,1
+P:
+Grasshopper,8.17.25066.7001
+Pufferfish,3.0.0.0
