@@ -1,0 +1,8 @@
+Nature Boardwalk Gridshell,1
+False,False
+Oscar3dm
+A:
+Oscar3dm
+N:
+create_canopy_surface,Create Canopy Surface,1
+create_base_gridshell_curve,Create Base Gridshell Curve,1
